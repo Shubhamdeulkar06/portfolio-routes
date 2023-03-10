@@ -19,26 +19,23 @@ const AboutSection = () => {
         <div className="row">
           <div className="col-lg-4 ms-auto">
             <p className="lead">
-              Freelancer is a free bootstrap theme created by Start Bootstrap.
-              The download includes the complete source files including HTML,
-              CSS, and JavaScript as well as optional SASS stylesheets for easy
-              customization.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
+              soluta quam ullam, facilis vero voluptatum optio assumenda velit
+              ab voluptate corporis, fuga modi maxime rem eius, voluptatibus
+              laborum iure? Ullam.
             </p>
           </div>
           <div className="col-lg-4 me-auto">
             <p className="lead">
-              You can create your own custom avatar for the masthead, change the
-              icon in the dividers, and add your email address to the contact
-              form to make it fully functional!
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
+              praesentium ab non nisi eius inventore pariatur odit quaerat
+              eligendi veniam!
             </p>
           </div>
         </div>
 
         <div className="text-center mt-4">
-          <a
-            className="btn btn-xl btn-outline-light"
-            href="https://startbootstrap.com/theme/freelancer/"
-          >
+          <a className="btn btn-xl btn-outline-light" href="#download">
             <i className="fas fa-download me-2"></i>
             Free Download!
           </a>
